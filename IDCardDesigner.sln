@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDCardDesigner", "IDCardDesigner\IDCardDesigner.csproj", "{54E3FEF3-7142-4B84-B903-B4438F43D6DE}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "IDCardDesigner_Setup", "IDCardDesigner_Setup\IDCardDesigner_Setup.vdproj", "{EF95B90D-EE40-4595-B70F-2A73E2E4EF19}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{54E3FEF3-7142-4B84-B903-B4438F43D6DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54E3FEF3-7142-4B84-B903-B4438F43D6DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54E3FEF3-7142-4B84-B903-B4438F43D6DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF95B90D-EE40-4595-B70F-2A73E2E4EF19}.Debug|Any CPU.ActiveCfg = Debug
+		{EF95B90D-EE40-4595-B70F-2A73E2E4EF19}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
